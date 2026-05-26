@@ -2735,14 +2735,14 @@
                                             <div style="clear: both;"></div>
                                         </div>
                                         <style>
-                                            .slot888-table-wrap {
+                                            .cunruay-table-wrap {
                                                 width: 100%;
                                                 overflow-x: auto;
                                                 margin: 28px 0;
                                                 font-family: Arial, sans-serif;
                                             }
                                         
-                                            .slot888-table {
+                                            .cunruay-table {
                                                 width: 100%;
                                                 border-collapse: collapse;
                                                 background: #101827;
@@ -2752,11 +2752,11 @@
                                                 box-shadow: 0 12px 30px rgba(0, 0, 0, .25);
                                             }
                                         
-                                            .slot888-table thead {
+                                            .cunruay-table thead {
                                                 background: linear-gradient(135deg, #f59e0b, #ef4444, #7c3aed);
                                             }
                                         
-                                            .slot888-table th {
+                                            .cunruay-table th {
                                                 padding: 16px 14px;
                                                 text-align: left;
                                                 font-size: 16px;
@@ -2764,7 +2764,7 @@
                                                 letter-spacing: .3px;
                                             }
                                         
-                                            .slot888-table td {
+                                            .cunruay-table td {
                                                 padding: 15px 14px;
                                                 border-bottom: 1px solid rgba(255, 255, 255, .09);
                                                 font-size: 15px;
@@ -2772,16 +2772,16 @@
                                                 vertical-align: top;
                                             }
                                         
-                                            .slot888-table tbody tr:nth-child(even) {
+                                            .cunruay-table tbody tr:nth-child(even) {
                                                 background: rgba(255, 255, 255, .04);
                                             }
                                         
-                                            .slot888-table tbody tr:hover {
+                                            .cunruay-table tbody tr:hover {
                                                 background: rgba(245, 158, 11, .16);
                                                 transition: .25s;
                                             }
                                         
-                                            .slot888-badge {
+                                            .cunruay-badge {
                                                 display: inline-block;
                                                 padding: 5px 11px;
                                                 border-radius: 999px;
@@ -2792,23 +2792,23 @@
                                                 white-space: nowrap;
                                             }
                                         
-                                            .slot888-badge.green {
+                                            .cunruay-badge.green {
                                                 background: #86efac;
                                             }
                                         
-                                            .slot888-badge.blue {
+                                            .cunruay-badge.blue {
                                                 background: #93c5fd;
                                             }
                                         
-                                            .slot888-badge.purple {
+                                            .cunruay-badge.purple {
                                                 background: #c4b5fd;
                                             }
                                         
-                                            .slot888-badge.red {
+                                            .cunruay-badge.red {
                                                 background: #fca5a5;
                                             }
                                         
-                                            .slot888-note {
+                                            .cunruay-note {
                                                 margin-top: 10px;
                                                 padding: 13px 15px;
                                                 border-left: 5px solid #f59e0b;
@@ -2822,16 +2822,16 @@
                                         
                                             @media(max-width:768px) {
                                         
-                                                .slot888-table th,
-                                                .slot888-table td {
+                                                .cunruay-table th,
+                                                .cunruay-table td {
                                                     font-size: 14px;
                                                     padding: 13px 12px;
                                                 }
                                             }
                                         </style>
                                         
-                                        <div class="slot888-table-wrap">
-                                            <table class="slot888-table">
+                                        <div class="cunruay-table-wrap">
+                                            <table class="cunruay-table">
                                                 <thead>
                                                     <tr>
                                                         <th>หัวข้อ</th>
@@ -2841,7 +2841,7 @@
                                                 </thead>
                                                 <tbody>
                                                     <tr>
-                                                        <td><span class="slot888-badge">สล็อต888</span></td>
+                                                        <td><span class="cunruay-badge">สล็อต888</span></td>
                                                         <td>
                                                             สล็อต888 เป็นเว็บสล็อตที่รวมหมวดเกมยอดนิยมไว้ในหน้าเดียว
                                                             ช่วยให้ผู้เล่นไทยค้นหาเกมได้ง่าย ทั้งเกมใหม่ เกมฮิต และเกมสล็อตที่มีระบบการเล่นเข้าใจง่าย
@@ -2850,7 +2850,7 @@
                                                     </tr>
                                         
                                                     <tr>
-                                                        <td><span class="slot888-badge green">PG Slot</span></td>
+                                                        <td><span class="cunruay-badge green">PG Slot</span></td>
                                                         <td>
                                                             หมวด PG Slot ถูกจัดเรียงอย่างเป็นระเบียบ มีเกมให้เลือกหลายแนว
                                                             ทั้งธีมผจญภัย แฟนตาซี ผลไม้ สัตว์นำโชค และเกมภาพคมชัดที่เล่นได้ต่อเนื่อง
@@ -2859,7 +2859,7 @@
                                                     </tr>
                                         
                                                     <tr>
-                                                        <td><span class="slot888-badge blue">API เสถียร</span></td>
+                                                        <td><span class="cunruay-badge blue">API เสถียร</span></td>
                                                         <td>
                                                             ระบบ API ช่วยเชื่อมต่อเกมให้ทำงานได้รวดเร็ว ลดปัญหาหน่วงระหว่างเข้าเกม
                                                             และทำให้การเปลี่ยนหน้าเกมหรือเลือกหมวดต่าง ๆ เป็นไปอย่างต่อเนื่อง
@@ -2868,7 +2868,7 @@
                                                     </tr>
                                         
                                                     <tr>
-                                                        <td><span class="slot888-badge purple">ข้อมูล RTP</span></td>
+                                                        <td><span class="cunruay-badge purple">ข้อมูล RTP</span></td>
                                                         <td>
                                                             การแสดงข้อมูล RTP ช่วยให้ผู้เล่นเข้าใจภาพรวมของเกมก่อนเลือกเล่น
                                                             สามารถเปรียบเทียบเกมแต่ละประเภทได้ง่ายขึ้น และวางแผนการเล่นได้เหมาะสมกว่าเดิม
@@ -2877,7 +2877,7 @@
                                                     </tr>
                                         
                                                     <tr>
-                                                        <td><span class="slot888-badge red">ผู้เล่นไทย</span></td>
+                                                        <td><span class="cunruay-badge red">ผู้เล่นไทย</span></td>
                                                         <td>
                                                             หน้าเว็บถูกออกแบบให้รองรับผู้ใช้งานในไทย ทั้งด้านภาษา การแสดงผลบนมือถือ
                                                             และการจัดหมวดหมู่ที่เข้าใจง่าย ไม่ซับซ้อนสำหรับผู้เล่นใหม่
@@ -2886,7 +2886,7 @@
                                                     </tr>
                                         
                                                     <tr>
-                                                        <td><span class="slot888-badge">สรุปภาพรวม</span></td>
+                                                        <td><span class="cunruay-badge">สรุปภาพรวม</span></td>
                                                         <td>
                                                             สล็อต888 เหมาะสำหรับผู้ที่ต้องการเว็บสล็อตรวม PG Slot พร้อมระบบ API ที่เสถียร
                                                             และมีข้อมูล RTP ประกอบการตัดสินใจก่อนเล่นจริง
@@ -7817,7 +7817,7 @@
         <a href="https://www.creawebonline.it/">สล็อต docente.utelvt.edu.ec pg</a>
         <a href="https://www.creawebonline.it/">pg pgjoker vip.wallet link</a>
         <a href="https://www.creawebonline.it/">pg slot.fit</a>
-        <a href="https://www.creawebonline.it/">https://mkslot888.co/lobby/pg</a>
+        <a href="https://www.creawebonline.it/">https://mkcunruay.co/lobby/pg</a>
         <a href="https://www.creawebonline.it/">pg slots www.victory555.click</a>
         <a href="https://www.creawebonline.it/">pg_stat_statements.track = all</a>
         <a href="https://www.creawebonline.it/">pg_hba.conf password authentication</a>
@@ -9820,7 +9820,7 @@
         <a href="https://www.creawebonline.it/">เกมสล็อตแบบทดลองเล่น</a>
         <a href="https://www.creawebonline.it/">มารีน่าเบย์สล็อต</a>
         <a href="https://www.creawebonline.it/">ทดลองหมุนสล็อต</a>
-        <a href="https://www.creawebonline.it/">super slot888</a>
+        <a href="https://www.creawebonline.it/">super cunruay</a>
         <a href="https://www.creawebonline.it/">282สล็อต</a>
         <a href="https://www.creawebonline.it/">&#65533;</a>
         <a href="https://www.creawebonline.it/">ufabet877 ทางเข้า</a>
@@ -11355,7 +11355,7 @@
         <a href="https://www.creawebonline.it/">ซุปเปอร์สล็อต88</a>
         <a href="https://www.creawebonline.it/">@lagalaxyคาสิโน</a>
         <a href="https://www.creawebonline.it/">ทางเข้า99ราชา</a>
-        <a href="https://www.creawebonline.it/">mkslot888</a>
+        <a href="https://www.creawebonline.it/">mkcunruay</a>
         <a href="https://www.creawebonline.it/">สล็อต888ทดลองเล่น</a>
         <a href="https://www.creawebonline.it/">nonameauto</a>
         <a href="https://www.creawebonline.it/">เว็บเศรษฐี99</a>
@@ -12404,7 +12404,7 @@
         <a href="https://www.creawebonline.it/">PGSLOT88</a>
         <a href="https://www.creawebonline.it/">PGSLOT999</a>
         <a href="https://www.creawebonline.it/">PGSLOT99 เข้าสู่ระบบ</a>
-        <a href="https://www.creawebonline.it/">PGSLOT888</a>
+        <a href="https://www.creawebonline.it/">PGcunruay</a>
         <a href="https://www.creawebonline.it/">PGSLOTSH3</a>
         <a href="https://www.creawebonline.it/">PGSLOT42</a>
         <a href="https://www.creawebonline.it/">คาสิโน BET365</a>
@@ -21306,7 +21306,7 @@
         <a href="https://www.creawebonline.it/">betflix wallet 20 รับ 100</a>
         <a href="https://www.creawebonline.it/">19ufabet wallet</a>
         <a href="https://www.creawebonline.it/">slot ufa wallet</a>
-        <a href="https://www.creawebonline.it/">wallet allslot888</a>
+        <a href="https://www.creawebonline.it/">wallet allcunruay</a>
         <a href="https://www.creawebonline.it/">ipro889 wallet เข้าสู่ระบบ</a>
         <a href="https://www.creawebonline.it/">g2g wallet</a>
         <a href="https://www.creawebonline.it/">สล็อต super wallet</a>
@@ -21486,7 +21486,7 @@
         <a href="https://www.creawebonline.it/">devil slot wallet</a>
         <a href="https://www.creawebonline.it/">wallet autoslot</a>
         <a href="https://www.creawebonline.it/">roman789 wallet</a>
-        <a href="https://www.creawebonline.it/">เข้า สู่ระบบ https wallet allslot888 com login</a>
+        <a href="https://www.creawebonline.it/">เข้า สู่ระบบ https wallet allcunruay com login</a>
         <a href="https://www.creawebonline.it/">gclub auto wallet</a>
         <a href="https://www.creawebonline.it/">slot sway168 wallet link</a>
         <a href="https://www.creawebonline.it/">zeed168 wallet เข้าสู่ระบบ ล่าสุด</a>
@@ -21945,7 +21945,7 @@
         <a href="https://www.creawebonline.it/">sg9 auto wallet</a>
         <a href="https://www.creawebonline.it/">dr c4 wallet</a>
         <a href="https://www.creawebonline.it/">superslot wallet ฝาก10รับ100</a>
-        <a href="https://www.creawebonline.it/">pgslot888-wallet</a>
+        <a href="https://www.creawebonline.it/">pgcunruay-wallet</a>
         <a href="https://www.creawebonline.it/">wallet myplay vip สล็อต</a>
         <a href="https://www.creawebonline.it/">wallet auto slot th</a>
         <a href="https://www.creawebonline.it/">wallet win88</a>
@@ -28922,7 +28922,7 @@
         <a href="https://www.creawebonline.it/">หวยสด com</a>
         <a href="https://www.creawebonline.it/">www ufa6666 com login</a>
         <a href="https://www.creawebonline.it/">www ro89.com</a>
-        <a href="https://www.creawebonline.it/">allslot888.com 📲</a>
+        <a href="https://www.creawebonline.it/">allcunruay.com 📲</a>
         <a href="https://www.creawebonline.it/">www.live22.com download</a>
         <a href="https://www.creawebonline.it/">m238.com slot</a>
         <a href="https://www.creawebonline.it/">www.ufa777.com</a>
@@ -30254,7 +30254,7 @@
         <a href="https://www.creawebonline.it/">www.pay69.com</a>
         <a href="https://www.creawebonline.it/">www.goallion..com</a>
         <a href="https://www.creawebonline.it/">www.naza24..com</a>
-        <a href="https://www.creawebonline.it/">mkslot888.com</a>
+        <a href="https://www.creawebonline.it/">mkcunruay.com</a>
         <a href="https://www.creawebonline.it/">ทาง เข้า 9999lsm com login</a>
         <a href="https://www.creawebonline.it/">www.lynblue89.com</a>
         <a href="https://www.creawebonline.it/">www w88club com</a>
@@ -32094,7 +32094,7 @@
         <a href="https://www.creawebonline.it/">เว็บ fasbet ลิงก์ ทาง เข้า https fastbet98 com</a>
         <a href="https://www.creawebonline.it/">www fun88 asia com vn</a>
         <a href="https://www.creawebonline.it/">ufacash. com</a>
-        <a href="https://www.creawebonline.it/">slot888.com</a>
+        <a href="https://www.creawebonline.it/">cunruay.com</a>
         <a href="https://www.creawebonline.it/">https member izebet com login</a>
         <a href="https://www.creawebonline.it/">www.racade 168.com/oid/view/</a>
         <a href="https://www.creawebonline.it/">ทาง เข้าเล่น https 928new com</a>
